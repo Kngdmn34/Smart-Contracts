@@ -1,2 +1,2 @@
 # Smart-Contracts
-My smart contracts projects
+My smart contracts projects . in solidity . 
